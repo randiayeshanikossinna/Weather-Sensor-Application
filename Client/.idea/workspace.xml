@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e84652a5-9370-4867-9cbd-361e1680775f" name="Default Changelist" comment="Change chart type from scatter to line Component" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="DinethShanG" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Monitor-Application" />
+  </component>
+  <component name="ProjectId" id="1loLJCJxVJG3sVuShVKPskNUJs0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/member_images" />
+      <recent name="$PROJECT_DIR$/src/components/member_images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84652a5-9370-4867-9cbd-361e1680775f" name="Default Changelist" comment="" />
+      <created>1608258422997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608258422997</updated>
+      <workItem from="1608258425650" duration="9552000" />
+      <workItem from="1608276554739" duration="10882000" />
+      <workItem from="1608295959250" duration="24025000" />
+      <workItem from="1608347683061" duration="9820000" />
+      <workItem from="1608359446023" duration="488000" />
+      <workItem from="1608360403379" duration="753000" />
+      <workItem from="1608373450006" duration="868000" />
+      <workItem from="1608374944318" duration="606000" />
+      <workItem from="1608480319432" duration="470000" />
+      <workItem from="1608520897066" duration="9616000" />
+      <workItem from="1608568723808" duration="2518000" />
+      <workItem from="1608572182080" duration="4725000" />
+      <workItem from="1608981008850" duration="2695000" />
+      <workItem from="1608989173237" duration="6987000" />
+      <workItem from="1609062425677" duration="1407000" />
+      <workItem from="1609158082340" duration="7403000" />
+      <workItem from="1609172322941" duration="12814000" />
+      <workItem from="1609213505428" duration="5172000" />
+      <workItem from="1609347293803" duration="838000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1608373672825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608373672826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1608373694394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608373694394</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1608482830490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608482830490</updated>
+    </task>
+    <task id="LOCAL-00004" summary="setIntervals for axios">
+      <created>1608569137598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608569137598</updated>
+    </task>
+    <task id="LOCAL-00005" summary="setIntervals for axios">
+      <created>1608569252896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608569252896</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DashBoard Component">
+      <created>1608572527650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608572527650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="setIntervals for axios" />
+    <MESSAGE value="DashBoard Component" />
+    <MESSAGE value="Change chart type from scatter to line Component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change chart type from scatter to line Component" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/SensorReadingChart.js</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
